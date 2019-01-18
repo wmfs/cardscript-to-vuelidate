@@ -3,6 +3,10 @@
   "description": "Takes in a Cardscript JSON object and attempts to extract validation schema from the widgets.",
   "version": "0.0.1",
   "author": "Meena Hoda",
+  "keywords": [
+    "tymly",
+    "cardscript"
+  ],
   "main": "./lib/index.js",
   "dependencies": {
     "esprima": "4.0.1",
