@@ -37,10 +37,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/wmfs/cardscript-to-validation-schema.git"
+    "url": "https://github.com/wmfs/cardscript-to-vuelidate.git"
   },
   "bugs": {
-    "url": "https://github.com/wmfs/cardscript-to-validation-schema/issues"
+    "url": "https://github.com/wmfs/cardscript-to-vuelidate/issues"
   },
   "config": {
     "commitizen": {
