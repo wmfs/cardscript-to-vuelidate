@@ -15,7 +15,7 @@
   "devDependencies": {
     "babel-register": "6.26.0",
     "babel-preset-env": "1.7.0",
-    "@wmfs/cardscript-examples": "^0.0.1",
+    "@wmfs/cardscript-examples": "1.0.0",
     "vuelidate": "0.7.4",
     "chai": "4.2.0",
     "codecov": "3.1.0",
@@ -23,10 +23,10 @@
     "cz-conventional-changelog": "2.1.0",
     "mocha": "5.2.0",
     "nyc": "13.1.0",
-    "semantic-release": "15.13.1",
+    "semantic-release": "15.13.3",
     "standard": "12.0.1",
-    "@semantic-release/changelog": "3.0.1",
-    "@semantic-release/git": "7.0.6"
+    "@semantic-release/changelog": "3.0.2",
+    "@semantic-release/git": "7.0.8"
   },
   "scripts": {
     "testold": "mocha --require babel-register",
