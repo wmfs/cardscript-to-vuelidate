@@ -7,7 +7,7 @@
 const evaluate = require('./../lib/evaluate')
 const chai = require('chai')
 const expect = chai.expect
-// const examples = require('cardscript-examples')
+// const examples = require('@wmfs/cardscript-examples')
 
 describe('Test the evaluater', function () {
   it('Expression === should equal true', () => {
