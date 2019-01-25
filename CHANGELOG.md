@@ -1,3 +1,15 @@
+# [1.1.0](https://github.com/wmfs/cardscript-to-vuelidate/compare/v1.0.0...v1.1.0) (2019-01-25)
+
+
+### ✨ Features
+
+* More ignoring of package-lock.json. ([0cc7384](https://github.com/wmfs/cardscript-to-vuelidate/commit/0cc7384))
+
+
+### 📚 Documentation
+
+* update readme with badges ([33d6663](https://github.com/wmfs/cardscript-to-vuelidate/commit/33d6663))
+
 # 1.0.0 (2019-01-18)
 
 
