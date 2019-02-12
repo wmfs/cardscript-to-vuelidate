@@ -1,3 +1,13 @@
+# [1.2.0](https://github.com/wmfs/cardscript-to-vuelidate/compare/v1.1.0...v1.2.0) (2019-02-12)
+
+
+### ✨ Features
+
+* added to the tests ([a45fefd](https://github.com/wmfs/cardscript-to-vuelidate/commit/a45fefd))
+* adjusted functionality to take in cardscript and produce vuelidate object ([df48681](https://github.com/wmfs/cardscript-to-vuelidate/commit/df48681))
+* update dep ([2ce2474](https://github.com/wmfs/cardscript-to-vuelidate/commit/2ce2474))
+* update deps ([dd06f7b](https://github.com/wmfs/cardscript-to-vuelidate/commit/dd06f7b))
+
 # [1.1.0](https://github.com/wmfs/cardscript-to-vuelidate/compare/v1.0.0...v1.1.0) (2019-01-25)
 
 
