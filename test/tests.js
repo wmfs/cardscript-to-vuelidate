@@ -7,6 +7,8 @@ const { complex } = require('@wmfs/cardscript-examples')
 describe('Test the vuelidate converter', function () {
   it('convert the complex form', () => {
     const vuelidate = converter(complex)
-    console.log(vuelidate)
+    expect(vuelidate.firstName.required).to.be.a('function')
+    expect(vuelidate.firstName.minLength).to.be.a('function')
+    expect(vuelidate.firstName.maxLength).to.be.a('function')
   })
 })
