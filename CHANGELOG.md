@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/wmfs/cardscript-to-vuelidate/compare/v1.2.0...v1.3.0) (2019-02-20)
+
+
+### ✨ Features
+
+* add requiredIf ([0470f16](https://github.com/wmfs/cardscript-to-vuelidate/commit/0470f16))
+
 # [1.2.0](https://github.com/wmfs/cardscript-to-vuelidate/compare/v1.1.0...v1.2.0) (2019-02-12)
 
 
