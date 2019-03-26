@@ -12,7 +12,7 @@
     "@wmfs/json-to-vuelidate": "1.1.0"
   },
   "devDependencies": {
-    "@wmfs/cardscript-examples": "1.2.0",
+    "@wmfs/cardscript-examples": "1.6.0",
     "chai": "4.2.0",
     "codecov": "3.1.0",
     "conventional-changelog-metahub": "2.0.2",
