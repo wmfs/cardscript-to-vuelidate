@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/wmfs/cardscript-to-vuelidate/compare/v1.3.0...v1.4.0) (2019-04-01)
+
+
+### ✨ Features
+
+* Input.ApiLookup to validated ([0d04285](https://github.com/wmfs/cardscript-to-vuelidate/commit/0d04285))
+
 # [1.3.0](https://github.com/wmfs/cardscript-to-vuelidate/compare/v1.2.0...v1.3.0) (2019-02-20)
 
 
