@@ -9,7 +9,7 @@
   ],
   "main": "./lib/index.js",
   "dependencies": {
-    "@wmfs/json-to-vuelidate": "1.2.0"
+    "@wmfs/json-to-vuelidate": "1.3.0"
   },
   "devDependencies": {
     "@wmfs/cardscript-examples": "1.6.0",
