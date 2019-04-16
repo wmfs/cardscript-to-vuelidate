@@ -1,3 +1,26 @@
+# [1.5.0](https://github.com/wmfs/cardscript-to-vuelidate/compare/v1.4.0...v1.5.0) (2019-04-16)
+
+
+### ✨ Features
+
+* beginnings of email validation ([53a464f](https://github.com/wmfs/cardscript-to-vuelidate/commit/53a464f))
+
+
+### 🛠 Builds
+
+* **deps:** update [@wmfs](https://github.com/wmfs)/json-to-vuelidate requirement ([4c00f63](https://github.com/wmfs/cardscript-to-vuelidate/commit/4c00f63))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/cardscript-examples requirement ([6977d08](https://github.com/wmfs/cardscript-to-vuelidate/commit/6977d08))
+
+
+### 📦 Code Refactoring
+
+* remove log ([496a533](https://github.com/wmfs/cardscript-to-vuelidate/commit/496a533))
+
+
+### 🚨 Tests
+
+* update test expects ([d868ef9](https://github.com/wmfs/cardscript-to-vuelidate/commit/d868ef9))
+
 # [1.4.0](https://github.com/wmfs/cardscript-to-vuelidate/compare/v1.3.0...v1.4.0) (2019-04-01)
 
 
