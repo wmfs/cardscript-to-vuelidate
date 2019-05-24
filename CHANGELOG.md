@@ -1,3 +1,10 @@
+## [1.5.1](https://github.com/wmfs/cardscript-to-vuelidate/compare/v1.5.0...v1.5.1) (2019-05-24)
+
+
+### 🐛 Bug Fixes
+
+* check if type is email to validate ([f3b7d85](https://github.com/wmfs/cardscript-to-vuelidate/commit/f3b7d85))
+
 # [1.5.0](https://github.com/wmfs/cardscript-to-vuelidate/compare/v1.4.0...v1.5.0) (2019-04-16)
 
 
