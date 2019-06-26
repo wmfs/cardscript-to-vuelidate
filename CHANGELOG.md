@@ -1,3 +1,14 @@
+# [1.6.0](https://github.com/wmfs/cardscript-to-vuelidate/compare/v1.5.1...v1.6.0) (2019-06-26)
+
+
+### 🛠 Builds
+
+* **deps:** update [@wmfs](https://github.com/wmfs)/json-to-vuelidate requirement ([dbc5c3b](https://github.com/wmfs/cardscript-to-vuelidate/commit/dbc5c3b))
+* **deps-dev:** update [@semantic-release](https://github.com/semantic-release)/git requirement ([761d34f](https://github.com/wmfs/cardscript-to-vuelidate/commit/761d34f))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/cardscript-examples requirement ([0a7dc90](https://github.com/wmfs/cardscript-to-vuelidate/commit/0a7dc90))
+* **deps-dev:** update codecov requirement from 3.1.0 to 3.5.0 ([0faced8](https://github.com/wmfs/cardscript-to-vuelidate/commit/0faced8))
+* **deps-dev:** update nyc requirement from 13.1.0 to 14.1.1 ([ddba94d](https://github.com/wmfs/cardscript-to-vuelidate/commit/ddba94d))
+
 ## [1.5.1](https://github.com/wmfs/cardscript-to-vuelidate/compare/v1.5.0...v1.5.1) (2019-05-24)
 
 
