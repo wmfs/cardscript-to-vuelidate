@@ -9,6 +9,13 @@ const FORM = {
   version: '1.0',
   body: [
     {
+      id: 'numberBetween5And10',
+      type: 'Input.Number',
+      validation: {
+        between: [5, 10]
+      }
+    },
+    {
       id: 'numberMin10Max50',
       type: 'Input.Number',
       validation: {
@@ -44,6 +51,10 @@ const FORM = {
       validation: {
         email: true
       }
+    },
+    {
+      id: 'inputEmail',
+      type: 'Input.Email'
     }
   ]
 }
@@ -51,6 +62,10 @@ const FORM = {
 describe('Test the vuelidate converter', () => {
   it('convert a form using validations', () => {
     const vuelidate = converter(FORM)
+
+    // console.log(vuelidate)
+
+    expect(vuelidate.numberBetween5And10.between).to.be.a('function')
 
     expect(vuelidate.numberMin10Max50.minValue).to.be.a('function')
     expect(vuelidate.numberMin10Max50.maxValue).to.be.a('function')
@@ -63,5 +78,6 @@ describe('Test the vuelidate converter', () => {
     expect(vuelidate.textRequiredIf.requiredIf).to.be.a('function')
 
     // expect(vuelidate.textEmail.email).to.be.a('function')
+    // expect(vuelidate.inputEmail.email).to.be.a('function')
   })
 })
