@@ -11,3 +11,5 @@
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/wmfs/tymly/blob/master/packages/concrete-paths/LICENSE)
 
 > Produces a template for use with Vuelidate from some Cardscript.
+
+See tests for example.
