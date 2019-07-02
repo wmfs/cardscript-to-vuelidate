@@ -1,3 +1,19 @@
+# [1.7.0](https://github.com/wmfs/cardscript-to-vuelidate/compare/v1.6.0...v1.7.0) (2019-07-02)
+
+
+### ✨ Features
+
+* added minimum and maximum ([fe4aaef](https://github.com/wmfs/cardscript-to-vuelidate/commit/fe4aaef))
+
+
+### 🛠 Builds
+
+* **deps-dev:** update [@semantic-release](https://github.com/semantic-release)/git requirement ([cfb3a12](https://github.com/wmfs/cardscript-to-vuelidate/commit/cfb3a12))
+* **deps-dev:** update [@semantic-release](https://github.com/semantic-release)/git requirement ([3705c58](https://github.com/wmfs/cardscript-to-vuelidate/commit/3705c58))
+* **deps-dev:** update [@semantic-release](https://github.com/semantic-release)/git requirement ([6c8e47e](https://github.com/wmfs/cardscript-to-vuelidate/commit/6c8e47e))
+* **deps-dev:** update semantic-release requirement ([214274b](https://github.com/wmfs/cardscript-to-vuelidate/commit/214274b))
+* **deps-dev:** update semantic-release requirement ([a7458d2](https://github.com/wmfs/cardscript-to-vuelidate/commit/a7458d2))
+
 # [1.6.0](https://github.com/wmfs/cardscript-to-vuelidate/compare/v1.5.1...v1.6.0) (2019-06-26)
 
 
