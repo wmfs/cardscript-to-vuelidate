@@ -1,7 +1,7 @@
 # cardscript-to-vuelidate
 
 [![Tymly Cardscript](https://img.shields.io/badge/tymly-cardscript-blue.svg)](https://tymly.io/)
-[![Build Status](https://travis-ci.com/wmfs/cardscript-to-vuelidate.svg?branch=master)](https://travis-ci.com/wmfs/cardscript-to-vuelidate)
+[![CircleCI](https://circleci.com/gh/wmfs/cardscript-to-vuelidate.svg?style=svg)](https://circleci.com/gh/wmfs/cardscript-to-vuelidate)
 [![npm (scoped)](https://img.shields.io/npm/v/@wmfs/cardscript-to-vuelidate.svg)](https://www.npmjs.com/package/@wmfs/cardscript-to-vuelidate) 
 [![codecov](https://codecov.io/gh/wmfs/cardscript-to-vuelidate/branch/master/graph/badge.svg)](https://codecov.io/gh/wmfs/cardscript-to-vuelidate) 
 [![CodeFactor](https://www.codefactor.io/repository/github/wmfs/cardscript-to-vuelidate/badge)](https://www.codefactor.io/repository/github/wmfs/cardscript-to-vuelidate) 
