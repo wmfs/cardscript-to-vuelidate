@@ -1,3 +1,33 @@
+# [1.8.0](https://github.com/wmfs/cardscript-to-vuelidate/compare/v1.7.0...v1.8.0) (2019-07-08)
+
+
+### ✨ Features
+
+* parse collections ([6ebb5dd](https://github.com/wmfs/cardscript-to-vuelidate/commit/6ebb5dd))
+
+
+### 🛠 Builds
+
+* **deps-dev:** update [@semantic-release](https://github.com/semantic-release)/changelog requirement ([51ba0f2](https://github.com/wmfs/cardscript-to-vuelidate/commit/51ba0f2))
+* **deps-dev:** update mocha requirement from 5.2.0 to 6.1.4 ([8a8dbd3](https://github.com/wmfs/cardscript-to-vuelidate/commit/8a8dbd3))
+
+
+### 📚 Documentation
+
+* Add CircleCI badge to readme ([552b74a](https://github.com/wmfs/cardscript-to-vuelidate/commit/552b74a))
+
+
+### 🚨 Tests
+
+* improve tests ([536a37f](https://github.com/wmfs/cardscript-to-vuelidate/commit/536a37f))
+* use specific example for this package ([d5e688e](https://github.com/wmfs/cardscript-to-vuelidate/commit/d5e688e))
+
+
+### ⚙️ Continuous Integrations
+
+* **circle:** Add CircleCI config ([4cac187](https://github.com/wmfs/cardscript-to-vuelidate/commit/4cac187))
+* **travis:** Remove Travis config ([068ff3b](https://github.com/wmfs/cardscript-to-vuelidate/commit/068ff3b))
+
 # [1.7.0](https://github.com/wmfs/cardscript-to-vuelidate/compare/v1.6.0...v1.7.0) (2019-07-02)
 
 
