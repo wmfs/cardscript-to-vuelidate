@@ -55,6 +55,13 @@ const FORM = {
     {
       id: 'inputEmail',
       type: 'Input.Email'
+    },
+    {
+      id: 'apiLookup',
+      type: 'Input.ApiLookup',
+      validation: {
+        required: true
+      }
     }
   ]
 }
@@ -79,5 +86,8 @@ describe('Test the vuelidate converter', () => {
 
     // expect(vuelidate.textEmail.email).to.be.a('function')
     // expect(vuelidate.inputEmail.email).to.be.a('function')
+    // console.log(vuelidate.apiLookup)
+
+    console.log('----\n', vuelidate)
   })
 })
