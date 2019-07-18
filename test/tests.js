@@ -87,6 +87,6 @@ describe('Test the vuelidate converter', () => {
     expect(vuelidate.textEmail.email).to.be.a('function')
     expect(vuelidate.inputEmail.email).to.be.a('function')
 
-    expect(vuelidate.apiLookup.selected).to.be.a('function')
+    expect(vuelidate.apiLookup.selected.required).to.be.a('function')
   })
 })
