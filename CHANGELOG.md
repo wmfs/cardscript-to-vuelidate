@@ -1,3 +1,17 @@
+## [1.8.1](https://github.com/wmfs/cardscript-to-vuelidate/compare/v1.8.0...v1.8.1) (2019-07-24)
+
+
+### 🐛 Bug Fixes
+
+* Input.ApiLookup and List validation ([15a73a8](https://github.com/wmfs/cardscript-to-vuelidate/commit/15a73a8))
+
+
+### 🚨 Tests
+
+* added case for Input.ApiLookup ([024a8df](https://github.com/wmfs/cardscript-to-vuelidate/commit/024a8df))
+* added case for Input.ApiLookup ([ebcebdd](https://github.com/wmfs/cardscript-to-vuelidate/commit/ebcebdd))
+* fix expect ([4cd72a3](https://github.com/wmfs/cardscript-to-vuelidate/commit/4cd72a3))
+
 # [1.8.0](https://github.com/wmfs/cardscript-to-vuelidate/compare/v1.7.0...v1.8.0) (2019-07-08)
 
 
