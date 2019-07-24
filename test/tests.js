@@ -57,10 +57,34 @@ const FORM = {
       type: 'Input.Email'
     },
     {
-      id: 'apiLookup',
-      type: 'Input.ApiLookup',
+      id: 'badList',
+      type: 'List',
       validation: {
         required: true
+      }
+    },
+    {
+      id: 'list',
+      type: 'List',
+      selectionType: 'single',
+      validation: {
+        required: true
+      }
+    },
+    {
+      id: 'apiLookup',
+      type: 'Input.ApiLookup',
+      resultsCard: {
+        body: [
+          {
+            id: 'apiLookupList',
+            type: 'List',
+            selectionType: 'single',
+            validation: {
+              required: true
+            }
+          }
+        ]
       }
     }
   ]
@@ -87,6 +111,8 @@ describe('Test the vuelidate converter', () => {
     expect(vuelidate.textEmail.email).to.be.a('function')
     expect(vuelidate.inputEmail.email).to.be.a('function')
 
-    expect(vuelidate.apiLookup.selected.required).to.be.a('function')
+    console.log('\n------\n', vuelidate)
+    // expect(vuelidate.list.required).to.be.a('function')
+    // expect(vuelidate.apiLookup.params.apiLookupList.required).to.be.a('function')
   })
 })
