@@ -1,3 +1,15 @@
+# [1.10.0](https://github.com/wmfs/cardscript-to-vuelidate/compare/v1.9.0...v1.10.0) (2019-11-08)
+
+
+### ✨ Features
+
+* telephone number validation ([](https://github.com/wmfs/cardscript-to-vuelidate/commit/c237ce6))
+
+
+### 🛠 Builds
+
+* **deps-dev:** update dev dependancies ([](https://github.com/wmfs/cardscript-to-vuelidate/commit/9e958eb))
+
 # [1.9.0](https://github.com/wmfs/cardscript-to-vuelidate/compare/v1.8.1...v1.9.0) (2019-07-24)
 
 
