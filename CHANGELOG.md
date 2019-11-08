@@ -1,3 +1,10 @@
+# [1.11.0](https://github.com/wmfs/cardscript-to-vuelidate/compare/v1.10.0...v1.11.0) (2019-11-08)
+
+
+### 🛠 Builds
+
+* **deps:** update deps ([c960777](https://github.com/wmfs/cardscript-to-vuelidate/commit/c960777bafce52fbc775486250ad73bad4e4cff6))
+
 # [1.10.0](https://github.com/wmfs/cardscript-to-vuelidate/compare/v1.9.0...v1.10.0) (2019-11-08)
 
 
