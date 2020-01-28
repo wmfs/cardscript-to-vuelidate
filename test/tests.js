@@ -42,7 +42,7 @@ const FORM = {
       id: 'textRequiredIf',
       type: 'Input.Text',
       validation: {
-        requiredIf: `data.pokemon = 'Psyduck' || data.pokemon = 'Pikachu'`
+        requiredIf: 'data.pokemon = \'Psyduck\' || data.pokemon = \'Pikachu\''
       }
     },
     {
