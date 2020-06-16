@@ -1,3 +1,32 @@
+# [1.14.0](https://github.com/wmfs/cardscript-to-vuelidate/compare/v1.13.0...v1.14.0) (2020-06-16)
+
+
+### ✨ Features
+
+* apply decimal/integer validation for Input.Number ([ab9252a](https://github.com/wmfs/cardscript-to-vuelidate/commit/ab9252a9d5f6c4ca80c81715f7962e43bf00ab02))
+
+
+### 🛠 Builds
+
+* **deps-dev:** bump [@semantic-release](https://github.com/semantic-release)/changelog from 5.0.0 to 5.0.1 ([230b972](https://github.com/wmfs/cardscript-to-vuelidate/commit/230b9722921a6a35ade0667cf4e6e77bfae70791))
+* **deps-dev:** bump codecov from 3.6.5 to 3.7.0 ([4895d8c](https://github.com/wmfs/cardscript-to-vuelidate/commit/4895d8c7d05b159e29fbf339a1de007a4d5d068e))
+* **deps-dev:** bump cz-conventional-changelog from 3.1.0 to 3.2.0 ([92c4085](https://github.com/wmfs/cardscript-to-vuelidate/commit/92c4085919a759ed8dbc6526240d7b3f4aeda7fd))
+* **deps-dev:** bump mocha from 7.1.1 to 7.1.2 ([f5c76ef](https://github.com/wmfs/cardscript-to-vuelidate/commit/f5c76ef88d7d3cfd4b0cc88ca1cb17d7513b5172))
+* **deps-dev:** bump mocha from 7.1.2 to 7.2.0 ([2f2a0d2](https://github.com/wmfs/cardscript-to-vuelidate/commit/2f2a0d274c9c8709783d7856cc652bca3d78329a))
+* **deps-dev:** bump mocha from 7.2.0 to 8.0.1 ([fc00ef9](https://github.com/wmfs/cardscript-to-vuelidate/commit/fc00ef9b56c680feba1a8bfef826dfc31f9b3f37))
+* **deps-dev:** bump nyc from 15.0.0 to 15.0.1 ([097a23e](https://github.com/wmfs/cardscript-to-vuelidate/commit/097a23ebb9e0914b2619d360420086fbfe1e3011))
+* **deps-dev:** bump nyc from 15.0.1 to 15.1.0 ([ff938c1](https://github.com/wmfs/cardscript-to-vuelidate/commit/ff938c133893e3a1a22e211b5482a55384cd753b))
+* **deps-dev:** bump semantic-release from 17.0.4 to 17.0.5 ([7725b3a](https://github.com/wmfs/cardscript-to-vuelidate/commit/7725b3a8ec2232e3c215ab35ef565d231448d216))
+* **deps-dev:** bump semantic-release from 17.0.5 to 17.0.6 ([c95163f](https://github.com/wmfs/cardscript-to-vuelidate/commit/c95163ff52881b37711faa11c2f0d46fbfd2537d))
+* **deps-dev:** bump semantic-release from 17.0.6 to 17.0.7 ([d6b051d](https://github.com/wmfs/cardscript-to-vuelidate/commit/d6b051d7bed00c78a25775d34086c70c6918ee74))
+* **deps-dev:** bump semantic-release from 17.0.7 to 17.0.8 ([0e627fc](https://github.com/wmfs/cardscript-to-vuelidate/commit/0e627fc2439cd3d50298d73b5e3ce435a4267fe6))
+* **deps-dev:** bump standard from 14.3.3 to 14.3.4 ([f5c8f06](https://github.com/wmfs/cardscript-to-vuelidate/commit/f5c8f06a826873e2fe17610dd10dcedb44c06dae))
+
+
+### ⚙️ Continuous Integrations
+
+* **circle:** add context env var config to config.yml ([09c048e](https://github.com/wmfs/cardscript-to-vuelidate/commit/09c048edcb2a52096b8f992e3bc4509d63a9197d))
+
 # [1.13.0](https://github.com/wmfs/cardscript-to-vuelidate/compare/v1.12.0...v1.13.0) (2020-03-19)
 
 
