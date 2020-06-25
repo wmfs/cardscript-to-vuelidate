@@ -1,3 +1,11 @@
+# [1.15.0](https://github.com/wmfs/cardscript-to-vuelidate/compare/v1.14.0...v1.15.0) (2020-06-25)
+
+
+### 🛠 Builds
+
+* **deps:** bump [@wmfs](https://github.com/wmfs)/json-to-vuelidate from 1.8.0 to 1.9.0 ([b138efd](https://github.com/wmfs/cardscript-to-vuelidate/commit/b138efd4919febe051360b097cd2c44a29be8f75))
+* **deps-dev:** bump semantic-release from 17.0.8 to 17.1.0 ([87cb8ed](https://github.com/wmfs/cardscript-to-vuelidate/commit/87cb8ed280425d016823941a11419bd4b0324748))
+
 # [1.14.0](https://github.com/wmfs/cardscript-to-vuelidate/compare/v1.13.0...v1.14.0) (2020-06-16)
 
 
