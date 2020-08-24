@@ -1,3 +1,19 @@
+# [1.17.0](https://github.com/wmfs/cardscript-to-vuelidate/compare/v1.16.0...v1.17.0) (2020-08-24)
+
+
+### 🛠 Builds
+
+* **deps:** bump [@wmfs](https://github.com/wmfs)/json-to-vuelidate from 1.10.0 to 1.11.0 ([693f698](https://github.com/wmfs/cardscript-to-vuelidate/commit/693f698690d1f701f0ee3840eececa28b5ca054b))
+* **deps-dev:** bump codecov from 3.7.0 to 3.7.1 ([2701dc9](https://github.com/wmfs/cardscript-to-vuelidate/commit/2701dc9d3cc6ae4b2cc8ce6c8e1cf197bc0be4de))
+* **deps-dev:** bump codecov from 3.7.1 to 3.7.2 ([b7fa3c9](https://github.com/wmfs/cardscript-to-vuelidate/commit/b7fa3c9cc8378764322475b4ec766b01e1814e5c))
+* **deps-dev:** bump mocha from 8.0.1 to 8.1.0 ([9af36a6](https://github.com/wmfs/cardscript-to-vuelidate/commit/9af36a63ed7325b7df6bb09859ab502d7065abfc))
+* **deps-dev:** bump mocha from 8.1.0 to 8.1.1 ([d46727e](https://github.com/wmfs/cardscript-to-vuelidate/commit/d46727ed5e13ee920d0657ffe9a07aa793773e38))
+
+
+### ⚙️ Continuous Integrations
+
+* **circle:** separate lint job [ch1009] ([52fd0a5](https://github.com/wmfs/cardscript-to-vuelidate/commit/52fd0a5fb08ace0dab79a00e9c77786aa73f4ea8))
+
 # [1.16.0](https://github.com/wmfs/cardscript-to-vuelidate/compare/v1.15.0...v1.16.0) (2020-07-16)
 
 
