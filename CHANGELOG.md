@@ -1,3 +1,34 @@
+# [1.19.0](https://github.com/wmfs/cardscript-to-vuelidate/compare/v1.18.0...v1.19.0) (2021-01-06)
+
+
+### 🛠 Builds
+
+* **deps:** bump [@wmfs](https://github.com/wmfs)/json-to-vuelidate from 1.12.0 to 1.13.0 ([b9a1e7b](https://github.com/wmfs/cardscript-to-vuelidate/commit/b9a1e7bb7a53a1f64bd30bc9507f4ac3d665c005))
+* **deps-dev:** bump codecov from 3.7.2 to 3.8.0 ([6b002b6](https://github.com/wmfs/cardscript-to-vuelidate/commit/6b002b6022521edb1310492db6fc60225b3576eb))
+* **deps-dev:** bump codecov from 3.8.0 to 3.8.1 ([4fd844a](https://github.com/wmfs/cardscript-to-vuelidate/commit/4fd844ab7f46678b7981108afd57c91535eccc28))
+* **deps-dev:** bump mocha from 8.1.3 to 8.2.0 ([02bfdf4](https://github.com/wmfs/cardscript-to-vuelidate/commit/02bfdf455391eb6da8d4d0130d5dbcfed631ff41))
+* **deps-dev:** bump mocha from 8.2.0 to 8.2.1 ([6390b3d](https://github.com/wmfs/cardscript-to-vuelidate/commit/6390b3df55525f8c17b376ed106124ca93812d7f))
+* **deps-dev:** bump semantic-release from 17.1.2 to 17.2.0 ([4e03692](https://github.com/wmfs/cardscript-to-vuelidate/commit/4e03692061529ad2246ab6e5adcb306f4bb62673))
+* **deps-dev:** bump semantic-release from 17.2.0 to 17.2.1 ([9dcae4f](https://github.com/wmfs/cardscript-to-vuelidate/commit/9dcae4f72b15c940705c416c9bbdc9be106f848c))
+* **deps-dev:** bump semantic-release from 17.2.1 to 17.2.2 ([24e8818](https://github.com/wmfs/cardscript-to-vuelidate/commit/24e88181be285a19646bd1abca7f45cb2fd10140))
+* **deps-dev:** bump semantic-release from 17.2.2 to 17.2.3 ([a970c1e](https://github.com/wmfs/cardscript-to-vuelidate/commit/a970c1e126aa4cfa0dcea60068c2b14adaf05fba))
+* **deps-dev:** bump semantic-release from 17.2.3 to 17.2.4 ([818f721](https://github.com/wmfs/cardscript-to-vuelidate/commit/818f7212e22daf98651f81f84c69273f3b2036b6))
+* **deps-dev:** bump semantic-release from 17.2.4 to 17.3.0 ([17c5467](https://github.com/wmfs/cardscript-to-vuelidate/commit/17c546721bd6fef692073b0e7689e480d9f18bdb))
+* **deps-dev:** bump semantic-release from 17.3.0 to 17.3.1 ([ab734c8](https://github.com/wmfs/cardscript-to-vuelidate/commit/ab734c87bdc9f703c6dd504a7a05558732fc6407))
+* **deps-dev:** bump standard from 14.3.4 to 15.0.0 ([87d387f](https://github.com/wmfs/cardscript-to-vuelidate/commit/87d387f195609c8dc2fb818a26fc8b0654f4e33f))
+* **deps-dev:** bump standard from 15.0.0 to 15.0.1 ([34f968e](https://github.com/wmfs/cardscript-to-vuelidate/commit/34f968e53c2cfa6c164d5118b2a0fa559543e5a4))
+* **deps-dev:** bump standard from 15.0.1 to 16.0.0 ([ace5131](https://github.com/wmfs/cardscript-to-vuelidate/commit/ace5131ad3b56f33b79294506a925ad866f02eb7))
+* **deps-dev:** bump standard from 16.0.0 to 16.0.1 ([091761c](https://github.com/wmfs/cardscript-to-vuelidate/commit/091761c0e4c6b1d1af8427dd34d7d5dfe0434712))
+* **deps-dev:** bump standard from 16.0.1 to 16.0.2 ([9da9ccd](https://github.com/wmfs/cardscript-to-vuelidate/commit/9da9ccda82b057b9ac37f4e54278a6532ab28d6a))
+* **deps-dev:** bump standard from 16.0.2 to 16.0.3 ([40d6a14](https://github.com/wmfs/cardscript-to-vuelidate/commit/40d6a1426784d7e1a471afaf76e427693d374c47))
+
+
+### ⚙️ Continuous Integrations
+
+* **circle:** authenticate Docker image pull [ch2767] ([5daff4b](https://github.com/wmfs/cardscript-to-vuelidate/commit/5daff4bc00de48a2e2fb2a0f7b6a47661d6983fa))
+* **circle:** cache dependencies [ch2770] ([5965973](https://github.com/wmfs/cardscript-to-vuelidate/commit/596597321e36893f14e4d474a7896af69f997e89))
+* **circle:** update build environment variable context name [ch2771] ([3677d65](https://github.com/wmfs/cardscript-to-vuelidate/commit/3677d654ab887463c0137704dde2ff73c766c3ea))
+
 # [1.18.0](https://github.com/wmfs/cardscript-to-vuelidate/compare/v1.17.0...v1.18.0) (2020-09-29)
 
 
