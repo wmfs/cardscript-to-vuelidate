@@ -1,3 +1,17 @@
+# [1.22.0](https://github.com/wmfs/cardscript-to-vuelidate/compare/v1.21.0...v1.22.0) (2021-02-03)
+
+
+### ✨ Features
+
+* custom maximum validator ([7fb3a15](https://github.com/wmfs/cardscript-to-vuelidate/commit/7fb3a1521a43369245bf21411bb9a4cb30633ee6))
+
+
+### 🛠 Builds
+
+* **deps-dev:** bump semantic-release from 17.3.4 to 17.3.5 ([0f4a468](https://github.com/wmfs/cardscript-to-vuelidate/commit/0f4a468f6fdd47ce07d4e2050fe8d8e6b5534018))
+* **deps-dev:** bump semantic-release from 17.3.5 to 17.3.6 ([937f368](https://github.com/wmfs/cardscript-to-vuelidate/commit/937f368965fd03cd924d73f8eab21692de50a069))
+* **deps-dev:** bump semantic-release from 17.3.6 to 17.3.7 ([ccf5be5](https://github.com/wmfs/cardscript-to-vuelidate/commit/ccf5be5ccf7001c601f49245b5d964cc66613053))
+
 # [1.21.0](https://github.com/wmfs/cardscript-to-vuelidate/compare/v1.20.0...v1.21.0) (2021-01-20)
 
 
