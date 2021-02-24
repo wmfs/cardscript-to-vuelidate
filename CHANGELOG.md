@@ -1,3 +1,14 @@
+# [1.24.0](https://github.com/wmfs/cardscript-to-vuelidate/compare/v1.23.0...v1.24.0) (2021-02-24)
+
+
+### 🛠 Builds
+
+* **deps:** bump [@wmfs](https://github.com/wmfs)/json-to-vuelidate from 1.16.0 to 1.17.0 ([1e966aa](https://github.com/wmfs/cardscript-to-vuelidate/commit/1e966aa1ca310eacb9242e473fcc50033d175e81))
+* **deps-dev:** bump chai from 4.2.0 to 4.3.0 ([819bfc4](https://github.com/wmfs/cardscript-to-vuelidate/commit/819bfc4a127182084f5787e565076f5feb4b7533))
+* **deps-dev:** bump mocha from 8.2.1 to 8.3.0 ([f493610](https://github.com/wmfs/cardscript-to-vuelidate/commit/f4936101bea058bd171f77852effccff5d20d76b))
+* **deps-dev:** bump semantic-release from 17.3.7 to 17.3.8 ([fb0a540](https://github.com/wmfs/cardscript-to-vuelidate/commit/fb0a5400250a8d1630d69cd97c65eb6674943c51))
+* **deps-dev:** bump semantic-release from 17.3.8 to 17.3.9 ([23cb390](https://github.com/wmfs/cardscript-to-vuelidate/commit/23cb390c6546a3bb6ba1bacbd8e73e0acf22d993))
+
 # [1.23.0](https://github.com/wmfs/cardscript-to-vuelidate/compare/v1.22.0...v1.23.0) (2021-02-03)
 
 
