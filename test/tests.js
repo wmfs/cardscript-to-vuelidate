@@ -92,7 +92,7 @@ const FORM = {
 
 describe('Test the vuelidate converter', () => {
   it('convert a form using validations', () => {
-    const vuelidate = converter(FORM)
+    const vuelidate = converter(FORM)[0]
 
     // console.log(vuelidate)
 
