@@ -1,3 +1,18 @@
+# [1.26.0](https://github.com/wmfs/cardscript-to-vuelidate/compare/v1.25.0...v1.26.0) (2021-06-01)
+
+
+### ✨ Features
+
+* allow custom validation messages ([eafa3eb](https://github.com/wmfs/cardscript-to-vuelidate/commit/eafa3eb2b289ebbab4bd6437970b8ef1899758ab))
+* allow custom validation messages ([58b241c](https://github.com/wmfs/cardscript-to-vuelidate/commit/58b241c51e322e751826aef4ee1b1396db7427f8))
+
+
+### 🛠 Builds
+
+* **deps-dev:** bump codecov from 3.8.1 to 3.8.2 ([ce09155](https://github.com/wmfs/cardscript-to-vuelidate/commit/ce0915526c23c4b3ea4227de36239e206f4f40ac))
+* **deps-dev:** bump mocha from 8.3.2 to 8.4.0 ([908d583](https://github.com/wmfs/cardscript-to-vuelidate/commit/908d58316d7f4bb7015d1aa2b4f1dc5bcb82ff97))
+* **deps-dev:** bump semantic-release from 17.4.2 to 17.4.3 ([3212132](https://github.com/wmfs/cardscript-to-vuelidate/commit/3212132020937bf14536f4042d63e8119c67cbfa))
+
 # [1.25.0](https://github.com/wmfs/cardscript-to-vuelidate/compare/v1.24.0...v1.25.0) (2021-03-18)
 
 
