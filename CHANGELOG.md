@@ -1,3 +1,17 @@
+# [1.27.0](https://github.com/wmfs/cardscript-to-vuelidate/compare/v1.26.0...v1.27.0) (2021-06-07)
+
+
+### ✨ Features
+
+* use collections ref ([88bd198](https://github.com/wmfs/cardscript-to-vuelidate/commit/88bd1986806a8f1da4378c477af49ce525b287d5))
+* use collections ref from cardscript-schema ([b452cb4](https://github.com/wmfs/cardscript-to-vuelidate/commit/b452cb4f9f558f31fbc94658df67c00fe6ba17d1))
+* use dottie to get collection ([f712b99](https://github.com/wmfs/cardscript-to-vuelidate/commit/f712b996ea00c223c430c0c4377f397ba5044bad))
+
+
+### 🛠 Builds
+
+* **deps:** bump [@wmfs](https://github.com/wmfs)/cardscript-schema to 1.30.0 ([467f98c](https://github.com/wmfs/cardscript-to-vuelidate/commit/467f98c8e00c2995d920ad87be3d44c86095c89a))
+
 # [1.26.0](https://github.com/wmfs/cardscript-to-vuelidate/compare/v1.25.0...v1.26.0) (2021-06-01)
 
 
