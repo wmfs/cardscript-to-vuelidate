@@ -1,3 +1,10 @@
+# [1.30.0](https://github.com/wmfs/cardscript-to-vuelidate/compare/v1.29.0...v1.30.0) (2021-06-08)
+
+
+### ✨ Features
+
+* allow custom rejex to be validated against ([a763e52](https://github.com/wmfs/cardscript-to-vuelidate/commit/a763e5215d1e27e20cb5afc65e5944ee5f060d96))
+
 # [1.29.0](https://github.com/wmfs/cardscript-to-vuelidate/compare/v1.28.0...v1.29.0) (2021-06-08)
 
 
