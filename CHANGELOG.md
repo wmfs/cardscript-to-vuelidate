@@ -1,3 +1,15 @@
+# [1.28.0](https://github.com/wmfs/cardscript-to-vuelidate/compare/v1.27.0...v1.28.0) (2021-06-08)
+
+
+### ✨ Features
+
+* postcode validator ([ca2d09f](https://github.com/wmfs/cardscript-to-vuelidate/commit/ca2d09f0b4ad286b4cad1949343f0d46a0e50ad2))
+
+
+### 🛠 Builds
+
+* **deps-dev:** bump mocha from 8.4.0 to 9.0.0 ([1175981](https://github.com/wmfs/cardscript-to-vuelidate/commit/1175981762509ee45b02a39f55912b429429b9e2))
+
 # [1.27.0](https://github.com/wmfs/cardscript-to-vuelidate/compare/v1.26.0...v1.27.0) (2021-06-07)
 
 
