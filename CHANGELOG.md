@@ -1,3 +1,24 @@
+# [1.32.0](https://github.com/wmfs/cardscript-to-vuelidate/compare/v1.31.0...v1.32.0) (2021-10-18)
+
+
+### ✨ Features
+
+* input date to pass through min/max for validation ([c95bd93](https://github.com/wmfs/cardscript-to-vuelidate/commit/c95bd93210c7338a35c10b2379746c54bea5b45e))
+
+
+### 🛠 Builds
+
+* **deps-dev:** bump codecov from 3.8.2 to 3.8.3 ([0ebce4c](https://github.com/wmfs/cardscript-to-vuelidate/commit/0ebce4c7337fdfde298f5c32df2cfe9350675045))
+* **deps-dev:** bump mocha from 9.0.0 to 9.0.1 ([d6e6b49](https://github.com/wmfs/cardscript-to-vuelidate/commit/d6e6b4985d68879d9bc40a80d0f125222b6dcb42))
+* **deps-dev:** bump mocha from 9.0.1 to 9.0.2 ([7ab3cca](https://github.com/wmfs/cardscript-to-vuelidate/commit/7ab3cca6f665cc3ee4c9412c2e8213cef141205c))
+* **deps-dev:** bump mocha from 9.0.2 to 9.0.3 ([ae49d4d](https://github.com/wmfs/cardscript-to-vuelidate/commit/ae49d4d8e00c22e8eeb218b1d3fe29068b7348b3))
+* **deps-dev:** bump semantic-release from 17.4.3 to 17.4.4 ([ca1b4d3](https://github.com/wmfs/cardscript-to-vuelidate/commit/ca1b4d391acf20f004167efb4eacae75d456f0f1))
+
+
+### ♻️ Chores
+
+* add renovate config [ch6600] ([384f362](https://github.com/wmfs/cardscript-to-vuelidate/commit/384f3623c45b3fdc941c6ff9f8f2994258c0cb09))
+
 # [1.31.0](https://github.com/wmfs/cardscript-to-vuelidate/compare/v1.30.0...v1.31.0) (2021-06-08)
 
 
