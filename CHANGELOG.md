@@ -1,3 +1,14 @@
+# [1.34.0](https://github.com/wmfs/cardscript-to-vuelidate/compare/v1.33.0...v1.34.0) (2021-10-27)
+
+
+### 🛠 Builds
+
+* **deps-dev:** update dependency mocha to v9.1.3 ([06d4aa9](https://github.com/wmfs/cardscript-to-vuelidate/commit/06d4aa947e8025caecce50e4560b13d0ee4f3eed))
+* **deps-dev:** update dependency standard to v16.0.4 ([dc08bd5](https://github.com/wmfs/cardscript-to-vuelidate/commit/dc08bd506b10bea41a755cbdb1d9365becc3def8))
+* **deps-dev:** update semantic-release monorepo ([084b87d](https://github.com/wmfs/cardscript-to-vuelidate/commit/084b87d7f5d500a44a68d1227e57005ea0435246))
+* **deps-dev:** update semantic-release monorepo ([6da438c](https://github.com/wmfs/cardscript-to-vuelidate/commit/6da438c6d90e9da2bf6156deca4728d1284efd4a))
+* **deps:** update dependency [@wmfs](https://github.com/wmfs)/json-to-vuelidate to v1.22.3 ([7189264](https://github.com/wmfs/cardscript-to-vuelidate/commit/7189264c5b2c27e8cdb5f05dfa6a5a45b8346e57))
+
 # [1.33.0](https://github.com/wmfs/cardscript-to-vuelidate/compare/v1.32.0...v1.33.0) (2021-10-18)
 
 
