@@ -1,3 +1,15 @@
+## [1.34.1](https://github.com/wmfs/cardscript-to-vuelidate/compare/v1.34.0...v1.34.1) (2021-11-15)
+
+
+### 🐛 Bug Fixes
+
+* stop forcing min/max validation on `Input.Date` by default as it is not behaving as expected, if necessary then it can be specified in the `validation` object as `minimumDate` or `maximumDate` ([974fa09](https://github.com/wmfs/cardscript-to-vuelidate/commit/974fa091a8bbb6b325abffd2c820f7c35c418f49))
+
+
+### 🛠 Builds
+
+* **deps-dev:** update semantic-release monorepo ([37bad04](https://github.com/wmfs/cardscript-to-vuelidate/commit/37bad04589325770faa348700bb8e4995e95cda0))
+
 # [1.34.0](https://github.com/wmfs/cardscript-to-vuelidate/compare/v1.33.0...v1.34.0) (2021-10-27)
 
 
