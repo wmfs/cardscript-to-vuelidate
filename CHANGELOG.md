@@ -1,3 +1,12 @@
+# [1.36.0](https://github.com/wmfs/cardscript-to-vuelidate/compare/v1.35.0...v1.36.0) (2022-01-26)
+
+
+### 🛠 Builds
+
+* **deps-dev:** update dependency chai to v4.3.5 ([c273a01](https://github.com/wmfs/cardscript-to-vuelidate/commit/c273a01629b26e98232a5f372a3c391b091bd9ee))
+* **deps-dev:** update dependency mocha to v9.2.0 ([aa40cfd](https://github.com/wmfs/cardscript-to-vuelidate/commit/aa40cfd5a40bb3b1fc422fc8b2dbbfce7448d5cb))
+* **deps:** update dependency [@wmfs](https://github.com/wmfs)/json-to-vuelidate to v1.24.0 ([37ab42a](https://github.com/wmfs/cardscript-to-vuelidate/commit/37ab42a091408b75276bf50b6f9abf661ff1b7fc))
+
 # [1.35.0](https://github.com/wmfs/cardscript-to-vuelidate/compare/v1.34.1...v1.35.0) (2022-01-24)
 
 
