@@ -96,20 +96,20 @@ describe('Test the vuelidate converter', () => {
 
     // console.log(vuelidate)
 
-    expect(vuelidate.numberBetween5And10.between).to.be.a('function')
+    expect(vuelidate.numberBetween5And10.between.$validator).to.be.a('function')
 
-    expect(vuelidate.numberMin10Max50.minValue).to.be.a('function')
-    expect(vuelidate.numberMin10Max50.maxValue).to.be.a('function')
+    expect(vuelidate.numberMin10Max50.minValue.$validator).to.be.a('function')
+    expect(vuelidate.numberMin10Max50.maxValue.$validator).to.be.a('function')
 
-    expect(vuelidate.textMinLen5MaxLen50.minLength).to.be.a('function')
-    expect(vuelidate.textMinLen5MaxLen50.maxLength).to.be.a('function')
+    expect(vuelidate.textMinLen5MaxLen50.minLength.$validator).to.be.a('function')
+    expect(vuelidate.textMinLen5MaxLen50.maxLength.$validator).to.be.a('function')
 
-    expect(vuelidate.textRequired.required).to.be.a('function')
+    expect(vuelidate.textRequired.required.$validator).to.be.a('function')
 
-    expect(vuelidate.textRequiredIf.requiredIf).to.be.a('function')
+    expect(vuelidate.textRequiredIf.requiredIf.$validator).to.be.a('function')
 
-    expect(vuelidate.textEmail.email).to.be.a('function')
-    expect(vuelidate.inputEmail.email).to.be.a('function')
+    expect(vuelidate.textEmail.email.$validator).to.be.a('function')
+    expect(vuelidate.inputEmail.email.$validator).to.be.a('function')
 
     console.log('\n------\n', vuelidate)
     // expect(vuelidate.list.required).to.be.a('function')
