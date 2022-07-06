@@ -1,3 +1,10 @@
+# [1.39.0](https://github.com/wmfs/cardscript-to-vuelidate/compare/v1.38.0...v1.39.0) (2022-07-06)
+
+
+### 🛠 Builds
+
+* **deps:** update dependency [@wmfs](https://github.com/wmfs)/cardscript-schema to v1.32.0 ([994a6da](https://github.com/wmfs/cardscript-to-vuelidate/commit/994a6da86b6b28310eaff2337cec1dc347b5da11))
+
 # [1.38.0](https://github.com/wmfs/cardscript-to-vuelidate/compare/v1.37.0...v1.38.0) (2022-07-06)
 
 
