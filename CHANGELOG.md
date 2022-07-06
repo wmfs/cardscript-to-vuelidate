@@ -1,3 +1,10 @@
+# [1.38.0](https://github.com/wmfs/cardscript-to-vuelidate/compare/v1.37.0...v1.38.0) (2022-07-06)
+
+
+### 🛠 Builds
+
+* **deps:** update dependency [@wmfs](https://github.com/wmfs)/json-to-vuelidate to v1.26.0 ([d33534c](https://github.com/wmfs/cardscript-to-vuelidate/commit/d33534c4ef783c1f7732f5d2f848c2c2c25e50cc))
+
 # [1.37.0](https://github.com/wmfs/cardscript-to-vuelidate/compare/v1.36.0...v1.37.0) (2022-06-16)
 
 
