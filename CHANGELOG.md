@@ -1,3 +1,10 @@
+## [1.39.1](https://github.com/wmfs/cardscript-to-vuelidate/compare/v1.39.0...v1.39.1) (2022-08-18)
+
+
+### 🐛 Bug Fixes
+
+* ensure collection data is array before iterating over ([26dc5be](https://github.com/wmfs/cardscript-to-vuelidate/commit/26dc5be41ef3eedb297f3626e649de46718b20da))
+
 # [1.39.0](https://github.com/wmfs/cardscript-to-vuelidate/compare/v1.38.0...v1.39.0) (2022-07-06)
 
 
