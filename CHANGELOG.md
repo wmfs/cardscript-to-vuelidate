@@ -1,3 +1,12 @@
+# [1.40.0](https://github.com/wmfs/cardscript-to-vuelidate/compare/v1.39.1...v1.40.0) (2022-09-08)
+
+
+### 🛠 Builds
+
+* **deps-dev:** update dependency semantic-release to v19.0.4 ([f558209](https://github.com/wmfs/cardscript-to-vuelidate/commit/f55820915c2c1e31042d8bdac4e025f3fd67d2cf))
+* **deps-dev:** update dependency semantic-release to v19.0.5 ([4526a63](https://github.com/wmfs/cardscript-to-vuelidate/commit/4526a63f75809334dba3d42bcb0acb34830cf735))
+* **deps:** update dependency [@wmfs](https://github.com/wmfs)/json-to-vuelidate to v1.27.1 ([f25c505](https://github.com/wmfs/cardscript-to-vuelidate/commit/f25c505e004e6cdf8289caa58f6f61c81c558d21))
+
 ## [1.39.1](https://github.com/wmfs/cardscript-to-vuelidate/compare/v1.39.0...v1.39.1) (2022-08-18)
 
 
