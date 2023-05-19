@@ -1,3 +1,13 @@
+# [1.43.0](https://github.com/wmfs/cardscript-to-vuelidate/compare/v1.42.0...v1.43.0) (2023-05-19)
+
+
+### 🛠 Builds
+
+* **deps-dev:** update dependency [@semantic-release](https://github.com/semantic-release)/changelog to v6.0.2 ([5053ee0](https://github.com/wmfs/cardscript-to-vuelidate/commit/5053ee0211949a5768ce45ffa413514c0b9bfda2))
+* **deps-dev:** update dependency chai to v4.3.7 ([6c2969a](https://github.com/wmfs/cardscript-to-vuelidate/commit/6c2969ae21ed4815b03f14b2ac85b6a37664851e))
+* **deps-dev:** update dependency mocha to v10.2.0 ([5606c69](https://github.com/wmfs/cardscript-to-vuelidate/commit/5606c691ecc61e30a2d8f3559f6f8824204c50b1))
+* **deps:** update dependency [@wmfs](https://github.com/wmfs)/json-to-vuelidate to v1.32.0 ([9eed97b](https://github.com/wmfs/cardscript-to-vuelidate/commit/9eed97bcdd17ecac9a388fbf3a7435d85532ac03))
+
 # [1.42.0](https://github.com/wmfs/cardscript-to-vuelidate/compare/v1.41.0...v1.42.0) (2022-11-02)
 
 
