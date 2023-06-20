@@ -1,3 +1,10 @@
+# [1.47.0](https://github.com/wmfs/cardscript-to-vuelidate/compare/v1.46.0...v1.47.0) (2023-06-20)
+
+
+### 🛠 Builds
+
+* **deps:** update dependency dottie to v2.0.6 ([7a77108](https://github.com/wmfs/cardscript-to-vuelidate/commit/7a771086eeb2b6b1ebdb25832f63dd65f3b98246))
+
 # [1.46.0](https://github.com/wmfs/cardscript-to-vuelidate/compare/v1.45.0...v1.46.0) (2023-06-20)
 
 
