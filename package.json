@@ -10,7 +10,7 @@
   "main": "./lib/index.js",
   "dependencies": {
     "@wmfs/json-to-vuelidate": "1.39.0",
-    "@wmfs/cardscript-schema": "1.35.0",
+    "@wmfs/cardscript-schema": "1.36.0",
     "dottie": "2.0.6"
   },
   "devDependencies": {
