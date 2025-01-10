@@ -1,3 +1,11 @@
+## [1.54.0](https://github.com/wmfs/cardscript-to-vuelidate/compare/v1.53.0...v1.54.0) (2025-01-10)
+
+### Build system dependencies :hammer:
+
+* **deps-dev:** [sc-29160] Resolve issue with semantic-release changelog notes ([#277](https://github.com/wmfs/cardscript-to-vuelidate/issues/277)) ([9e6b830](https://github.com/wmfs/cardscript-to-vuelidate/commit/9e6b830af362d583229f49fb0eda19f2330246a7))
+* **deps-dev:** update dependency semantic-release to v24.2.1 ([#276](https://github.com/wmfs/cardscript-to-vuelidate/issues/276)) ([b2ca0ae](https://github.com/wmfs/cardscript-to-vuelidate/commit/b2ca0ae52492e93260816833349340f5c6d9abd7))
+* **deps:** update dependency @wmfs/cardscript-schema to v1.36.0 ([#278](https://github.com/wmfs/cardscript-to-vuelidate/issues/278)) ([807848e](https://github.com/wmfs/cardscript-to-vuelidate/commit/807848e71f78e9ee9f3c809e5676349f1e06334d))
+
 # [1.53.0](https://github.com/wmfs/cardscript-to-vuelidate/compare/v1.52.0...v1.53.0) (2024-12-09)
 
 # [1.52.0](https://github.com/wmfs/cardscript-to-vuelidate/compare/v1.51.0...v1.52.0) (2024-11-25)
