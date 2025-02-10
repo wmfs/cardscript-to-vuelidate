@@ -1,3 +1,11 @@
+## [1.55.0](https://github.com/wmfs/cardscript-to-vuelidate/compare/v1.54.0...v1.55.0) (2025-02-10)
+
+### Build system dependencies :hammer:
+
+* **deps-dev:** update dependency mocha to v11.1.0 ([#279](https://github.com/wmfs/cardscript-to-vuelidate/issues/279)) ([8c00451](https://github.com/wmfs/cardscript-to-vuelidate/commit/8c0045177d990bbff77a9c80beb58e0e2b2556ba))
+* **deps-dev:** update dependency semantic-release to v24.2.2 ([#281](https://github.com/wmfs/cardscript-to-vuelidate/issues/281)) ([0d668bf](https://github.com/wmfs/cardscript-to-vuelidate/commit/0d668bfa2be29388f524cc3a87087de7bcac8fae))
+* **deps:** update dependency @wmfs/cardscript-schema to v1.37.0 ([#280](https://github.com/wmfs/cardscript-to-vuelidate/issues/280)) ([4a935d7](https://github.com/wmfs/cardscript-to-vuelidate/commit/4a935d7009965f1e84cc60727577b69aebc7a232))
+
 ## [1.54.0](https://github.com/wmfs/cardscript-to-vuelidate/compare/v1.53.0...v1.54.0) (2025-01-10)
 
 ### Build system dependencies :hammer:
