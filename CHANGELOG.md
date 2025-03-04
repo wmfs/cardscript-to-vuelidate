@@ -1,3 +1,13 @@
+## [1.56.0](https://github.com/wmfs/cardscript-to-vuelidate/compare/v1.55.0...v1.56.0) (2025-03-04)
+
+### New Feature(s) :rocket:
+
+* **(pin 262) crr dd:** [sc-29323] Add 'name' input to signature [#283](https://github.com/wmfs/cardscript-to-vuelidate/issues/283) ([bac6b53](https://github.com/wmfs/cardscript-to-vuelidate/commit/bac6b532201f3a3310ab5a6be5bcd67dd86f4998))
+
+### Build system dependencies :hammer:
+
+* **deps-dev:** update dependency semantic-release to v24.2.3 ([#282](https://github.com/wmfs/cardscript-to-vuelidate/issues/282)) ([7cf850b](https://github.com/wmfs/cardscript-to-vuelidate/commit/7cf850b4a6a6ca1ac5f470bf0bc9b32ab8056da3))
+
 ## [1.55.0](https://github.com/wmfs/cardscript-to-vuelidate/compare/v1.54.0...v1.55.0) (2025-02-10)
 
 ### Build system dependencies :hammer:
