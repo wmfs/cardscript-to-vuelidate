@@ -1,3 +1,9 @@
+## [1.57.0](https://github.com/wmfs/cardscript-to-vuelidate/compare/v1.56.0...v1.57.0) (2025-05-19)
+
+### Build system dependencies :hammer:
+
+* **deps:** update dependency @wmfs/json-to-vuelidate to v1.40.0 ([#285](https://github.com/wmfs/cardscript-to-vuelidate/issues/285)) ([1afe1f8](https://github.com/wmfs/cardscript-to-vuelidate/commit/1afe1f8b91d730ad8dcd8ed7861314a2fb282821))
+
 ## [1.56.0](https://github.com/wmfs/cardscript-to-vuelidate/compare/v1.55.0...v1.56.0) (2025-03-04)
 
 ### New Feature(s) :rocket:
