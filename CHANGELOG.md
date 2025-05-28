@@ -1,3 +1,14 @@
+## [1.58.0](https://github.com/wmfs/cardscript-to-vuelidate/compare/v1.57.0...v1.58.0) (2025-05-28)
+
+### Build system dependencies :hammer:
+
+* **deps-dev:** update dependency conventional-changelog-conventionalcommits to v9 ([#287](https://github.com/wmfs/cardscript-to-vuelidate/issues/287)) ([1a41f10](https://github.com/wmfs/cardscript-to-vuelidate/commit/1a41f10305962effabac168682195f7888e72249))
+* **deps-dev:** update dependency mocha to v11.4.0 ([#284](https://github.com/wmfs/cardscript-to-vuelidate/issues/284)) ([76a941c](https://github.com/wmfs/cardscript-to-vuelidate/commit/76a941ca51897c9a601082d9170d810b9fd07dec))
+* **deps-dev:** update dependency mocha to v11.5.0 ([#289](https://github.com/wmfs/cardscript-to-vuelidate/issues/289)) ([45306fc](https://github.com/wmfs/cardscript-to-vuelidate/commit/45306fc8480b3f41d14882ade47e495b541db83d))
+* **deps-dev:** update dependency semantic-release to v24.2.4 ([#286](https://github.com/wmfs/cardscript-to-vuelidate/issues/286)) ([09358b5](https://github.com/wmfs/cardscript-to-vuelidate/commit/09358b58c5e8aa87f428068b6ed8d66403912484))
+* **deps-dev:** update dependency semantic-release to v24.2.5 ([#288](https://github.com/wmfs/cardscript-to-vuelidate/issues/288)) ([31f6245](https://github.com/wmfs/cardscript-to-vuelidate/commit/31f6245586fc5481909b5b9c04818884633bc609))
+* **deps:** update dependency @wmfs/json-to-vuelidate to v1.41.0 ([#290](https://github.com/wmfs/cardscript-to-vuelidate/issues/290)) ([bb0cee0](https://github.com/wmfs/cardscript-to-vuelidate/commit/bb0cee0c91e9fefc10f790c2233c9bb8d3829aa7))
+
 ## [1.57.0](https://github.com/wmfs/cardscript-to-vuelidate/compare/v1.56.0...v1.57.0) (2025-05-19)
 
 ### Build system dependencies :hammer:
