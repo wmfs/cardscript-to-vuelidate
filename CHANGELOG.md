@@ -1,3 +1,10 @@
+## [1.61.0](https://github.com/wmfs/cardscript-to-vuelidate/compare/v1.60.0...v1.61.0) (2025-06-20)
+
+### Build system dependencies :hammer:
+
+* **deps-dev:** update dependency mocha to v11.7.0 ([#294](https://github.com/wmfs/cardscript-to-vuelidate/issues/294)) ([95356ff](https://github.com/wmfs/cardscript-to-vuelidate/commit/95356ff621bfefba11b74a5ea59787d2c3ad2b9b))
+* **deps:** update dependency @wmfs/json-to-vuelidate to v1.44.0 ([#295](https://github.com/wmfs/cardscript-to-vuelidate/issues/295)) ([eca492a](https://github.com/wmfs/cardscript-to-vuelidate/commit/eca492a7f4288b2ffc7955e61bcb6f51de5eddc1))
+
 ## [1.60.0](https://github.com/wmfs/cardscript-to-vuelidate/compare/v1.59.0...v1.60.0) (2025-06-16)
 
 ### Build system dependencies :hammer:
