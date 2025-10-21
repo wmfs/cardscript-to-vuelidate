@@ -1,3 +1,19 @@
+## [1.63.0](https://github.com/wmfs/cardscript-to-vuelidate/compare/v1.62.0...v1.63.0) (2025-10-21)
+
+### Build system dependencies :hammer:
+
+* **deps-dev:** update dependency @semantic-release/release-notes-generator to v14.1.0 ([#303](https://github.com/wmfs/cardscript-to-vuelidate/issues/303)) ([d3a1296](https://github.com/wmfs/cardscript-to-vuelidate/commit/d3a12967376ecbb350044ea4c27cd94944e52fd8))
+* **deps-dev:** update dependency chai to v6 ([#301](https://github.com/wmfs/cardscript-to-vuelidate/issues/301)) ([fae6d02](https://github.com/wmfs/cardscript-to-vuelidate/commit/fae6d02dcd1853a13aa7bd6bac344421317908f2))
+* **deps-dev:** update dependency chai to v6.2.0 ([#306](https://github.com/wmfs/cardscript-to-vuelidate/issues/306)) ([447c0b0](https://github.com/wmfs/cardscript-to-vuelidate/commit/447c0b0dff93db123cc31d64325f76dc637f3d7e))
+* **deps-dev:** update dependency mocha to v11.7.2 ([#302](https://github.com/wmfs/cardscript-to-vuelidate/issues/302)) ([6a34dea](https://github.com/wmfs/cardscript-to-vuelidate/commit/6a34dea57cc865dfbfb64287cfc487ff1a2aad2e))
+* **deps-dev:** update dependency mocha to v11.7.3 ([#307](https://github.com/wmfs/cardscript-to-vuelidate/issues/307)) ([2eaae55](https://github.com/wmfs/cardscript-to-vuelidate/commit/2eaae553ab9e352b900812a9b2159359600a0417))
+* **deps-dev:** update dependency mocha to v11.7.4 ([#308](https://github.com/wmfs/cardscript-to-vuelidate/issues/308)) ([b607c5a](https://github.com/wmfs/cardscript-to-vuelidate/commit/b607c5aa628b89dd960f711554a7620b6dac299d))
+* **deps-dev:** update dependency semantic-release to v24.2.8 ([#304](https://github.com/wmfs/cardscript-to-vuelidate/issues/304)) ([2288473](https://github.com/wmfs/cardscript-to-vuelidate/commit/2288473fe0c8884575218052e0503a395675119c))
+* **deps-dev:** update dependency semantic-release to v24.2.9 ([#305](https://github.com/wmfs/cardscript-to-vuelidate/issues/305)) ([a7749e2](https://github.com/wmfs/cardscript-to-vuelidate/commit/a7749e29a38ace7d7cb12aa69914f41139965f2e))
+* **deps-dev:** update dependency semantic-release to v25 ([#309](https://github.com/wmfs/cardscript-to-vuelidate/issues/309)) ([2b93ba8](https://github.com/wmfs/cardscript-to-vuelidate/commit/2b93ba8ce18a05c9f896b46dcd202828ef1a9bd4))
+* **deps-dev:** update dependency semantic-release to v25.0.1 ([#310](https://github.com/wmfs/cardscript-to-vuelidate/issues/310)) ([6775d92](https://github.com/wmfs/cardscript-to-vuelidate/commit/6775d92758ec3eee26c0ee51b4c7f1326c07d9ac))
+* **deps:** revert chai to non-esm ([3be349e](https://github.com/wmfs/cardscript-to-vuelidate/commit/3be349ec7cd29aab8ddbf882222a0905747038a9))
+
 ## [1.62.0](https://github.com/wmfs/cardscript-to-vuelidate/compare/v1.61.0...v1.62.0) (2025-07-23)
 
 ### Build system dependencies :hammer:
