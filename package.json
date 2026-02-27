@@ -11,7 +11,7 @@
   "dependencies": {
     "@wmfs/json-to-vuelidate": "1.45.0",
     "@wmfs/cardscript-schema": "1.38.0",
-    "dottie": "2.0.6"
+    "dottie": "2.0.7"
   },
   "devDependencies": {
     "chai": "4.5.0",
