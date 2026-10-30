@@ -1,3 +1,21 @@
+## [1.65.0](https://github.com/wmfs/cardscript-to-vuelidate/compare/v1.64.1...v1.65.0) (2026-10-30)
+
+### Build system dependencies :hammer:
+
+* **deps-dev:** fix conventionalcommit versions [sc-34125] ([d9de41f](https://github.com/wmfs/cardscript-to-vuelidate/commit/d9de41f7061082cdf79f116d5e988964471cc50a))
+* **deps-dev:** update dependency conventional-changelog-conventionalcommits to v10.4.0 ([#341](https://github.com/wmfs/cardscript-to-vuelidate/issues/341)) ([15faf83](https://github.com/wmfs/cardscript-to-vuelidate/commit/15faf83a84b82ca951367ee90c7930b50e99e96e))
+* **deps-dev:** update dependency conventional-changelog-conventionalcommits to v10.4.1 ([#346](https://github.com/wmfs/cardscript-to-vuelidate/issues/346)) ([c7a3040](https://github.com/wmfs/cardscript-to-vuelidate/commit/c7a304077b74b609f0e7b71c8a567a3f61cb1020))
+* **deps-dev:** update dependency mocha to v12 ([#342](https://github.com/wmfs/cardscript-to-vuelidate/issues/342)) ([a507951](https://github.com/wmfs/cardscript-to-vuelidate/commit/a507951aa36bb26bbe23586f4a68a98555668bd1))
+* **deps-dev:** update dependency mocha to v12.0.1 ([#343](https://github.com/wmfs/cardscript-to-vuelidate/issues/343)) ([545af64](https://github.com/wmfs/cardscript-to-vuelidate/commit/545af642e62d7dfaa805496a34fe6c37626e6b1c))
+* **deps-dev:** update dependency mocha to v12.0.2 ([#344](https://github.com/wmfs/cardscript-to-vuelidate/issues/344)) ([64bb7fd](https://github.com/wmfs/cardscript-to-vuelidate/commit/64bb7fd4a6092024840f6dcfa4996bc05258659c))
+* **deps-dev:** update dependency mocha to v12.0.3 ([#345](https://github.com/wmfs/cardscript-to-vuelidate/issues/345)) ([430ba46](https://github.com/wmfs/cardscript-to-vuelidate/commit/430ba4692df3bbc092eb5f946c80569c59c2c5d3))
+* **deps:** update dependency dottie to v2.0.7 [security] ([#320](https://github.com/wmfs/cardscript-to-vuelidate/issues/320)) ([753250f](https://github.com/wmfs/cardscript-to-vuelidate/commit/753250f754b6feef07e4aaba736a27d5f4d1b23a))
+
+### CICD Configuration Changes :construction_worker:
+
+* use github-app-token orb for release token [sc-34101] ([#349](https://github.com/wmfs/cardscript-to-vuelidate/issues/349)) ([64acfdb](https://github.com/wmfs/cardscript-to-vuelidate/commit/64acfdba6d9a3eddad0b2ffe217960ee86dbb4a0))
+* use shared renovate preset [sc-34117] ([#347](https://github.com/wmfs/cardscript-to-vuelidate/issues/347)) ([b72d567](https://github.com/wmfs/cardscript-to-vuelidate/commit/b72d56744a25535ffdf4872c49cd4fa95e15ac47))
+
 ## [1.64.1](https://github.com/wmfs/cardscript-to-vuelidate/compare/v1.64.0...v1.64.1) (2026-08-14)
 
 ## [1.64.0](https://github.com/wmfs/cardscript-to-vuelidate/compare/v1.63.0...v1.64.0) (2025-11-19)
