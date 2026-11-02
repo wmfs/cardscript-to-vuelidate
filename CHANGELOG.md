@@ -1,3 +1,9 @@
+## [1.66.0](https://github.com/wmfs/cardscript-to-vuelidate/compare/v1.65.0...v1.66.0) (2026-11-02)
+
+### Build system dependencies :hammer:
+
+* **deps:** update [@wmfs](https://github.com/wmfs) packages ([#348](https://github.com/wmfs/cardscript-to-vuelidate/issues/348)) ([18fb5d1](https://github.com/wmfs/cardscript-to-vuelidate/commit/18fb5d145afd05a9f15609e566f60dfeae29a85a))
+
 ## [1.65.0](https://github.com/wmfs/cardscript-to-vuelidate/compare/v1.64.1...v1.65.0) (2026-10-30)
 
 ### Build system dependencies :hammer:
