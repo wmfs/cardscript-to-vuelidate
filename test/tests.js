@@ -116,3 +116,39 @@ describe('Test the vuelidate converter', () => {
     // expect(vuelidate.apiLookup.params.apiLookupList.required).to.be.a('function')
   })
 })
+
+describe('Input.Address (address picker) validation', () => {
+  const card = element => ({ type: 'AdaptiveCard', body: [element] })
+
+  it('requires an address unless the user enters it by hand', () => {
+    const [vuelidate, messages] = converter(card({ id: 'selectedUprn', type: 'Input.Address' }))
+
+    expect(vuelidate.selectedUprn.requiredIf.$validator).to.be.a('function')
+    expect(vuelidate.addressLine1.requiredIf.$validator).to.be.a('function')
+    expect(vuelidate.townOrCity.requiredIf.$validator).to.be.a('function')
+    expect(vuelidate.postcode.requiredIf.$validator).to.be.a('function')
+    expect(vuelidate.postcode.postcode.$validator).to.be.a('function')
+    expect(vuelidate.addressLine2).to.eql(undefined)
+    expect(messages.selectedUprn).to.eql('Choose an address, or select "I can\'t find the address"')
+    expect(messages.addressLine1).to.eql('Enter address line 1')
+  })
+
+  it('uses the id prefix for the manual fields', () => {
+    const [vuelidate] = converter(card({ id: 'home_selectedUprn', idPrefix: 'home', type: 'Input.Address' }))
+    expect(vuelidate.home_addressLine1.requiredIf.$validator).to.be.a('function')
+    expect(vuelidate.addressLine1).to.eql(undefined)
+  })
+
+  it('is required outright when manual entry is off', () => {
+    const [vuelidate, messages] = converter(card({ id: 'uprn', type: 'Input.Address', allowManualEntry: false }))
+    expect(vuelidate.uprn.required.$validator).to.be.a('function')
+    expect(vuelidate.addressLine1).to.eql(undefined)
+    expect(messages.uprn).to.eql('Choose an address')
+  })
+
+  it('can be made optional', () => {
+    const [vuelidate] = converter(card({ id: 'uprn', type: 'Input.Address', validation: { required: false } }))
+    expect(vuelidate.uprn).to.eql(undefined)
+    expect(vuelidate.addressLine1).to.eql(undefined)
+  })
+})
